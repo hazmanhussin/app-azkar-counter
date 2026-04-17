@@ -81,7 +81,7 @@ User progress is saved using browser `localStorage`, so sessions resume automati
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/zikr-app.git
+git clone https://github.com/hazm/zikr-app.git
 ```
 2. Open the project folder:
 ```bash
